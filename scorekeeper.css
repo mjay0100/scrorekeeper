@@ -1,0 +1,23 @@
+.winner{
+	color: red;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background-color:darkgray;
+}
+
+p{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+}
+
+
